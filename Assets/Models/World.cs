@@ -14,7 +14,7 @@ public class World {
     get { return height; }
   }
 
-  public World( int width = 100, int height = 100 ) {
+  public World( int width = 20, int height = 20 ) {
     this.width = width;
     this.height = height;
     tiles = new Tile[width,height];
