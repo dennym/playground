@@ -47,16 +47,4 @@ public class Tile  {
   public void UnregisterTileTypeChangedCallback(Action<Tile> callback) {
     cbtileTypeChanged -= callback;
   }
-
-  // public Material[] Materials;
-
-	// void Start () {
-	// 	// For more sppecific vertices saving approach
- //    // https://answers.unity.com/questions/139808/creating-a-plane-mesh-directly-from-code.html
-
- //    GameObject plane = GameObject.CreatePrimitive(PrimitiveType.Plane);
- //    plane.transform.position = new Vector3(1f, 20f, 3f);
- //    plane.GetComponent<MeshRenderer>().material = Materials[0];
-	// }
-
 }
