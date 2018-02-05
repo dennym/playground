@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"with",
+				"width"
+			],
+			[
+				"Tile",
+				"TileType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Controllers/WorldController.cs",
+			"settings":
+			{
+				"buffer_size": 261,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/X/Unity Projects/city builder VR/Assets",
+		"/X/Unity Projects/city builder VR/Assets/Controllers",
+		"/X/Unity Projects/city builder VR/Assets/Models"
+	],
+	"file_history":
+	[
+		"/X/Unity Projects/city builder VR/Assets/Models/InstalledObject.cs",
+		"/X/Unity Projects/city builder VR/Assets/Model/Tile.cs",
+		"/X/Unity Projects/city builder VR/Assets/Models/World.cs",
+		"/X/Unity Projects/city builder VR/Assets/Model/InstalledObject.cs",
+		"/X/Unity Projects/city builder VR/Assets/Model/LooseObject.cs",
+		"/X/Unity Projects/city builder VR/Assets/Controllers/WorldController.cs",
+		"/X/Unity Projects/city builder VR/Assets/Model/World.cs",
+		"/X/Unity Projects/city builder VR/Assets/Scripts/TileGenerator.cs",
+		"/X/Unity Projects/city builder VR/Assets/GroundGenerator.cs",
+		"/X/Unity Projects/city builder VR/Assets/Drawing.cs",
+		"/X/Unity Projects/city builder VR/Assets/CameraMovement.cs",
+		"/X/Unity Projects/city builder VR/Assets/something.cs",
+		"/X/Unity Projects/city builder VR/Assets/SteamVR/Editor/SteamVR_Preferences.cs",
+		"/X/Unity/Editor/Unity.exe"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mat",
+			"DrawLine",
+			"0084 c074 08",
+			"0084 c075 08"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0084 c075 08"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Controllers/WorldController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "city builder vr.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
